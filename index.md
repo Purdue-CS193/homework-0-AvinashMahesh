@@ -1,3 +1,10 @@
+# Avinash Mahesh's First CS193 Homework
+## Favorite things about CS193
+- the professors 
+- the material covered in class
+- the many options presented for students to get extra help
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -23,6 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+**ayo** _slanty wordz_ `hmmm`
 [Link](url) and ![Image](src)
 ```
 
